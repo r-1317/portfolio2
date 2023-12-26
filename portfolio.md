@@ -15,10 +15,14 @@
 <p>高等専門学校第二学年</p>
 <h2 id="成果物等">成果物等</h2>
 <ul>
-<li><strong>任意の文字列を先頭にもつ電子掲示板のトリップを生成するプログラム</strong><a href="https://github.com/r-1317/portfolio2/blob/main/tripkey.ipynb">https://github.com/r-1317/portfolio2/blob/main/tripkey.ipynb</a></li>
+<li><strong>任意の文字列を先頭にもつ電子掲示板のトリップを生成するプログラム</strong><br>
+<a href="https://github.com/r-1317/portfolio2/blob/main/tripkey.ipynb">https://github.com/r-1317/portfolio2/blob/main/tripkey.ipynb</a></li>
 <li><strong>高専祭の展示物(2年生)</strong><br>
 単語リストの作成を担当<br>
 <a href="https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html">https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html</a></li>
+<li><strong>ThreadConnector</strong><br>
+電子掲示板の複数partに別れたスレッドを結合するプログラム<br>
+<a href="https://github.com/r-1317/ThreadConnector">https://github.com/r-1317/ThreadConnector</a></li>
 </ul>
 <h2 id="プログラミング言語やソフトウェア-ウェブサービス-に関する経験・スキル">プログラミング言語やソフトウェア (ウェブサービス) に関する経験・スキル</h2>
 <h3 id="プログラミング言語">プログラミング言語</h3>
