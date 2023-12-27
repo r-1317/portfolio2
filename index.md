@@ -52,6 +52,10 @@
 学校の授業で習うレベル</li>
 <li><strong>Real VNC</strong><br>
 学校の授業で習うレベル</li>
+<li><strong>Tera Term</strong><br>
+学校の授業で習うレベル</li>
+<li><strong>Cisco Packet Tracer</strong><br>
+学校の授業で習うレベル</li>
 </ul>
 </div>
 </body>
