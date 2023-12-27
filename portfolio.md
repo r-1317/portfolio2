@@ -20,7 +20,7 @@
 <li><strong>高専祭の展示物(2年生)</strong><br>
 単語リストの作成を担当<br>
 <a href="https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html">https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html</a></li>
-<li><strong>ThreadConnector</strong><br>
+<li><strong>ThreadConnector</strong> -2023年12月 完成<br>
 電子掲示板の複数partに別れたスレッドを結合するプログラム<br>
 <a href="https://github.com/r-1317/ThreadConnector">https://github.com/r-1317/ThreadConnector</a></li>
 </ul>
