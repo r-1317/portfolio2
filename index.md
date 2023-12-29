@@ -16,34 +16,22 @@
 
 ### プログラミング言語
 
- - **Python言語**
- 学校の授業で習うレベル
- - **Arduino言語**
- 学校の授業で習うレベル
- - **Scratch**
- 中学生の頃に友人とゲームを制作していた
+ - **Python言語**<br> 学校の授業で習うレベル
+ - **Arduino言語**<br> 学校の授業で習うレベル
+ - **Scratch**<br> 中学生の頃に友人とゲームを制作していた
 ### ソフトウェア (ウェブサービス)
- - **Git/GitHub**
-学校の授業で習うレベル
-- **VSCode**
-学校の授業で習うレベル
-- **ArduinoIDE**
-学校の授業で習うレベル
-- **Deeds-DCS**
-学校の授業で習うレベル
-- **MakeCode for micro:bit**
-学校の授業で習うレベル
-- **Tinkercad**
-学校の授業で習うレベル
-- **Ambient**
-学校の授業で習うレベル
-- **Real VNC**
-学校の授業で習うレベル
-- **Tera Term**
-学校の授業で習うレベル
+ - **Git/GitHub**<br>学校の授業で習うレベル
+- **VSCode**<br>学校の授業で習うレベル
+- **ArduinoIDE**<br>学校の授業で習うレベル
+- **Deeds-DCS**<br>学校の授業で習うレベル
+- **MakeCode for micro:bit**<br>学校の授業で習うレベル
+- **Tinkercad**<br>学校の授業で習うレベル
+- **Ambient**<br>学校の授業で習うレベル
+- **Real VNC**<br>学校の授業で習うレベル
+- **Tera Term**<br>学校の授業で習うレベル
 - **Cisco Packet Tracer**
 学校の授業で習うレベル
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzE3NjI5MywyMDMzMDYyODY2LDE5OT
-M3OTU1MjJdfQ==
+eyJoaXN0b3J5IjpbMjQ4NTM2OTk3LDE0MDcxNzYyOTMsMjAzMz
+A2Mjg2NiwxOTkzNzk1NTIyXX0=
 -->
