@@ -10,7 +10,7 @@
 
 -   **高専祭の展示物** (2年生)<br>単語リストの作成を担当<br> [https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html](https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html)
  
--  **ThreadConnector** -2023年12月 完成<br> [https://github.com/r-1317/ThreadConnector](https://github.com/r-1317/ThreadConnector)<br>電子掲示板の複数partに別れたスレッドを結合するプログラムです。<br>詳細は
+-  **ThreadConnector** -2023年12月 完成<br> [https://github.com/r-1317/ThreadConnector](https://github.com/r-1317/ThreadConnector)<br>電子掲示板の複数partに別れたスレッドを結合するプログラムです。<br>詳細は[README](https://github.com/r-1317/ThreadConnector/?tab=readme-ov-file#readme)をご確認ください。
 
 ## プログラミング言語やソフトウェア (ウェブサービス) に関する経験・スキル
 
@@ -44,6 +44,6 @@
 - **Cisco Packet Tracer**
 学校の授業で習うレベル
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzY2MDYzMzIsMjAzMzA2Mjg2NiwxOT
-kzNzk1NTIyXX0=
+eyJoaXN0b3J5IjpbMTQwNzE3NjI5MywyMDMzMDYyODY2LDE5OT
+M3OTU1MjJdfQ==
 -->
