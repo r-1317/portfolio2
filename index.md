@@ -29,9 +29,8 @@
 - **Ambient**<br>学校の授業で習うレベル
 - **Real VNC**<br>学校の授業で習うレベル
 - **Tera Term**<br>学校の授業で習うレベル
-- **Cisco Packet Tracer**
-学校の授業で習うレベル
+- **Cisco Packet Tracer*<br>学校の授業で習うレベル
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4NTM2OTk3LDE0MDcxNzYyOTMsMjAzMz
-A2Mjg2NiwxOTkzNzk1NTIyXX0=
+eyJoaXN0b3J5IjpbMTExOTMxNzQxNSwxNDA3MTc2MjkzLDIwMz
+MwNjI4NjYsMTk5Mzc5NTUyMl19
 -->
