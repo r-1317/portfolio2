@@ -6,11 +6,10 @@
 高等専門学校第二学年
 ## 成果物等
 
--   **任意の文字列を先頭にもつ電子掲示板のトリップを生成するプログラム** -2023年7月 完成
-  [https://github.com/r-1317/portfolio2/blob/main/tripkey.ipynb](https://github.com/r-1317/portfolio2/blob/main/tripkey.ipynb)
+-   **任意の文字列を先頭にもつ電子掲示板のトリップを生成するプログラム** -2023年7月 完成<br>  [https://github.com/r-1317/portfolio2/blob/main/tripkey.ipynb](https://github.com/r-1317/portfolio2/blob/main/tripkey.ipynb)
 
 -   **高専祭の展示物** (2年生)
- 単語リストの作成を担当
+ 単語リストの作成を担当<>
  [https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html](https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html)
  
 -  **ThreadConnector** -2023年12月 完成
@@ -49,5 +48,5 @@
 - **Cisco Packet Tracer**
 学校の授業で習うレベル
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzA4NDg1NCwxOTkzNzk1NTIyXX0=
+eyJoaXN0b3J5IjpbMTE1OTg4Mzk0NCwxOTkzNzk1NTIyXX0=
 -->
