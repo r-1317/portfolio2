@@ -1,69 +1,53 @@
-<!DOCTYPE html>
-<html>
+# ポートフォリオ
+(2023年12月時点)
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>portfolio</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
+## 所属と学年
 
-<body class="stackedit">
-  <div class="stackedit__html"><h1 id="ポートフォリオ">ポートフォリオ</h1>
-<p>(2023年12月時点)</p>
-<h2 id="所属と学年">所属と学年</h2>
-<p>高等専門学校第二学年</p>
-<h2 id="成果物等">成果物等</h2>
-<ul>
-<li>
-<p><strong>任意の文字列を先頭にもつ電子掲示板のトリップを生成するプログラム</strong> -2023年7月 完成<br>
-<a href="https://github.com/r-1317/portfolio2/blob/main/tripkey.ipynb">https://github.com/r-1317/portfolio2/blob/main/tripkey.ipynb</a></p>
-</li>
-<li>
-<p><strong>高専祭の展示物</strong> (2年生)<br>
-単語リストの作成を担当<br>
-<a href="https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html">https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html</a></p>
-</li>
-<li>
-<p><strong>ThreadConnector</strong> -2023年12月 完成<br>
-電子掲示板の複数partに別れたスレッドを結合するプログラム<br>
-<a href="https://github.com/r-1317/ThreadConnector">https://github.com/r-1317/ThreadConnector</a></p>
-</li>
-</ul>
-<h2 id="プログラミング言語やソフトウェア-ウェブサービス-に関する経験・スキル">プログラミング言語やソフトウェア (ウェブサービス) に関する経験・スキル</h2>
-<h3 id="プログラミング言語">プログラミング言語</h3>
-<ul>
-<li><strong>Python言語</strong><br>
-学校の授業で習うレベル</li>
-<li><strong>Arduino言語</strong><br>
-学校の授業で習うレベル</li>
-<li><strong>Scratch</strong><br>
-中学生の頃に友人とゲームを制作していた</li>
-</ul>
-<h3 id="ソフトウェア-ウェブサービス">ソフトウェア (ウェブサービス)</h3>
-<ul>
-<li><strong>Git/GitHub</strong><br>
-学校の授業で習うレベル</li>
-<li><strong>VSCode</strong><br>
-学校の授業で習うレベル</li>
-<li><strong>ArduinoIDE</strong><br>
-学校の授業で習うレベル</li>
-<li><strong>Deeds-DCS</strong><br>
-学校の授業で習うレベル</li>
-<li><strong>MakeCode for micro:bit</strong><br>
-学校の授業で習うレベル</li>
-<li><strong>Tinkercad</strong><br>
-学校の授業で習うレベル</li>
-<li><strong>Ambient</strong><br>
-学校の授業で習うレベル</li>
-<li><strong>Real VNC</strong><br>
-学校の授業で習うレベル</li>
-<li><strong>Tera Term</strong><br>
-学校の授業で習うレベル</li>
-<li><strong>Cisco Packet Tracer</strong><br>
-学校の授業で習うレベル</li>
-</ul>
-</div>
-</body>
+高等専門学校第二学年
+## 成果物等
 
-</html>
+-   **任意の文字列を先頭にもつ電子掲示板のトリップを生成するプログラム** -2023年7月 完成
+  https://github.com/r-1317/portfolio2/blob/main/tripkey.ipynb
+
+-   **高専祭の展示物** (2年生)
+ 単語リストの作成を担当
+ https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html
+ 
+-  **ThreadConnector** -2023年12月 完成
+ https://github.com/r-1317/ThreadConnector
+ 電子掲示板の複数partに別れたスレッドを結合するプログラムです。
+
+## プログラミング言語やソフトウェア (ウェブサービス) に関する経験・スキル
+
+### プログラミング言語
+
+ - **Python言語**
+ 学校の授業で習うレベル
+ - **Arduino言語**
+ 学校の授業で習うレベル
+ - **Scratch**
+ 中学生の頃に友人とゲームを制作していた
+### ソフトウェア (ウェブサービス)
+ - **Git/GitHub**
+学校の授業で習うレベル
+- **VSCode**
+学校の授業で習うレベル
+- **ArduinoIDE**
+学校の授業で習うレベル
+- **Deeds-DCS**
+学校の授業で習うレベル
+- **MakeCode for micro:bit**
+学校の授業で習うレベル
+- **Tinkercad**
+学校の授業で習うレベル
+- **Ambient**
+学校の授業で習うレベル
+- **Real VNC**
+学校の授業で習うレベル
+- **Tera Term**
+学校の授業で習うレベル
+- **Cisco Packet Tracer**
+学校の授業で習うレベル
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk5Mzc5NTUyMl19
+-->
