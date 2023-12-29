@@ -8,13 +8,9 @@
 
 -   **任意の文字列を先頭にもつ電子掲示板のトリップを生成するプログラム** -2023年7月 完成<br>  [https://github.com/r-1317/portfolio2/blob/main/tripkey.ipynb](https://github.com/r-1317/portfolio2/blob/main/tripkey.ipynb)
 
--   **高専祭の展示物** (2年生)
- 単語リストの作成を担当<>
- [https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html](https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html)
+-   **高専祭の展示物** (2年生)<br>単語リストの作成を担当<br> [https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html](https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html)
  
--  **ThreadConnector** -2023年12月 完成
- [https://github.com/r-1317/ThreadConnector](https://github.com/r-1317/ThreadConnector)
- 電子掲示板の複数partに別れたスレッドを結合するプログラムです。
+-  **ThreadConnector** -2023年12月 完成<br> [https://github.com/r-1317/ThreadConnector](https://github.com/r-1317/ThreadConnector)<br>電子掲示板の複数partに別れたスレッドを結合するプログラムです。
 
 ## プログラミング言語やソフトウェア (ウェブサービス) に関する経験・スキル
 
@@ -48,5 +44,5 @@
 - **Cisco Packet Tracer**
 学校の授業で習うレベル
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTg4Mzk0NCwxOTkzNzk1NTIyXX0=
+eyJoaXN0b3J5IjpbMjAzMzA2Mjg2NiwxOTkzNzk1NTIyXX0=
 -->
