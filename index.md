@@ -55,17 +55,17 @@
 > 
 > ## 使用している言語とモジュール
 > このソフトウェアは、Pythonを使用しています。
-- **Python** ([Python Software Foundation License](https://docs.python.org/ja/3/license.html#psf-license)) Copyright © 2001-2023 Python Software Foundation. All rights reserved.
-
-また、以下のモジュールも使用しています。
-
- - **Requests** ([Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)) Copyright 2019 Kenneth Reitz
- 
-- **os**, **time**, **re**, **argparse** ([Python Software Foundation License](https://docs.python.org/ja/3/license.html#psf-license)) Copyright © 2001-2023 Python Software Foundation. All rights reserved.
-
-## ライセンス
-このソフトウェアは、[MIT License](https://opensource.org/license/mit/)の下で配布されています。詳細は[LICENSE.txt](https://github.com/r-1317/ThreadConnector/blob/main/LICENSE.txt)を参照してください。
-
+> - **Python** ([Python Software Foundation License](https://docs.python.org/ja/3/license.html#psf-license)) Copyright © 2001-2023 Python Software Foundation. All rights reserved.
+> 
+> また、以下のモジュールも使用しています。
+> 
+>  - **Requests** ([Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)) Copyright 2019 Kenneth Reitz
+ > 
+> - **os**, **time**, **re**, **argparse** ([Python Software Foundation License](https://docs.python.org/ja/3/license.html#psf-license)) Copyright © 2001-2023 Python Software Foundation. All rights reserved.
+> 
+> ## ライセンス
+> このソフトウェアは、[MIT License](https://opensource.org/license/mit/)の下で配布されています。詳細は[LICENSE.txt](https://github.com/r-1317/ThreadConnector/blob/main/LICENSE.txt)を参照してください。
+> 
 ## プログラミング言語やソフトウェア (ウェブサービス) に関する経験・スキル
 
 ### プログラミング言語
@@ -85,7 +85,7 @@
 - **Tera Term**<br>学校の授業で習うレベル
 - **Cisco Packet Tracer*<br>学校の授業で習うレベル
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA5NzQ4OTU5LDEyOTc3MzgyMDgsNjA0NT
-gyMzU0LC0xMjk1ODc1MTY1LDExMTkzMTc0MTUsMTQwNzE3NjI5
-MywyMDMzMDYyODY2LDE5OTM3OTU1MjJdfQ==
+eyJoaXN0b3J5IjpbMTg3NjcwNjEwNSwxMjk3NzM4MjA4LDYwND
+U4MjM1NCwtMTI5NTg3NTE2NSwxMTE5MzE3NDE1LDE0MDcxNzYy
+OTMsMjAzMzA2Mjg2NiwxOTkzNzk1NTIyXX0=
 -->
