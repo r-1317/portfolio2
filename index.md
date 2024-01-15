@@ -11,24 +11,24 @@
 -   **高専祭の展示物** (2年生)<br>単語リストの作成を担当<br> [https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html](https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html)
  
 -  **ThreadConnector** -2023年12月 完成<br> [https://github.com/r-1317/ThreadConnector](https://github.com/r-1317/ThreadConnector)<br>電子掲示板の複数partに別れたスレッドを結合するプログラムです。<br>
-- # ThreadConnector
-![ThreadConnector](https://github.com/r-1317/ThreadConnector/blob/main/images/img01.png?raw=true)
-## 概要
-
-電子掲示板の複数partに別れたスレッドを結合し、datとhtmlで保存します。
-### 出力の例
-![使用例](https://github.com/r-1317/ThreadConnector/blob/main/images/img06.png?raw=true)
-[https://github.com/r-1317/ThreadConnector/blob/main/sample/sample.html](https://github.com/r-1317/ThreadConnector/blob/main/sample/sample.html)<br>Githup Pagesを使うと文字化けしたため、一度ダウンロードしてからローカル環境で開いてください。
-
-## ダウンロード
-以下のリンクよりダウンロードできます。
- - [Windows用実行ファイル](https://github.com/r-1317/ThreadConnector/releases/download/Version1.1/ThreadConnector-1.1.exe)
- 
- - [Linux用実行ファイル](https://github.com/r-1317/ThreadConnector/releases/download/Version1.1/ThreadConnector-1.1)
- 
- - [ソースファイル](https://github.com/r-1317/ThreadConnector/releases/download/Version1.1/ThreadConnector-1.1.py)<br>
- ## 使い方
- ![使用例](https://github.com/r-1317/ThreadConnector/blob/main/images/img01.png?raw=true)
+> # ThreadConnector
+>![ThreadConnector](https://github.com/r-1317/ThreadConnector/blob/main/images/img01.png?raw=true)
+> ## 概要
+>
+>電子掲示板の複数partに別れたスレッドを結合し、datとhtmlで保存します。
+> ### 出力の例
+> ![使用例](https://github.com/r-1317/ThreadConnector/blob/main/images/img06.png?raw=true)
+> [https://github.com/r-1317/ThreadConnector/blob/main/sample/sample.html](https://github.com/r-1317/ThreadConnector/blob/main/sample/sample.html)<br>Githup Pagesを使うと文字化けしたため、一度ダウンロードしてからローカル環境で開いてください。
+> 
+> ## ダウンロード
+> 以下のリンクよりダウンロードできます。
+>  - [Windows用実行ファイル](https://github.com/r-1317/ThreadConnector/releases/download/Version1.1/ThreadConnector-1.1.exe)
+>  
+>  - [Linux用実行ファイル](https://github.com/r-1317/ThreadConnector/releases/download/Version1.1/ThreadConnector-1.1)
+ > 
+>  - [ソースファイル](https://github.com/r-1317/ThreadConnector/releases/download/Version1.1/ThreadConnector-1.1.py)<br>
+> ## 使い方
+ >>![使用例](https://github.com/r-1317/ThreadConnector/blob/main/images/img01.png?raw=true)
 以下のようなコマンドを入力
 
     .\ThreadConnector-1.1.exe [最新スレッドのURL] [Part数] -f [出力ファイル名] -t [dat取得の間隔(秒) デフォルト1]
@@ -85,7 +85,7 @@ https://mao.5ch.net/test/read.cgi/linux/1566402890/<br>このように、前ス�
 - **Tera Term**<br>学校の授業で習うレベル
 - **Cisco Packet Tracer*<br>学校の授業で習うレベル
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NzczODIwOCw2MDQ1ODIzNTQsLTEyOT
-U4NzUxNjUsMTExOTMxNzQxNSwxNDA3MTc2MjkzLDIwMzMwNjI4
-NjYsMTk5Mzc5NTUyMl19
+eyJoaXN0b3J5IjpbLTEwNTQyMjg1MDUsMTI5NzczODIwOCw2MD
+Q1ODIzNTQsLTEyOTU4NzUxNjUsMTExOTMxNzQxNSwxNDA3MTc2
+MjkzLDIwMzMwNjI4NjYsMTk5Mzc5NTUyMl19
 -->
