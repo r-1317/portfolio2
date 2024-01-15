@@ -26,7 +26,7 @@
  
  - [Linux用実行ファイル](https://github.com/r-1317/ThreadConnector/releases/download/Version1.1/ThreadConnector-1.1)
  
- - [ソースファイル](https://github.com/r-1317/ThreadConnector/releases/download/Version1.1/ThreadConnector-1.1.py)
+ - [ソースファイル](https://github.com/r-1317/ThreadConnector/releases/download/Version1.1/ThreadConnector-1.1.py)<br>
  ## 使い方
  ![使用例](https://github.com/r-1317/ThreadConnector/blob/main/images/img01.png?raw=true)
 以下のようなコマンドを入力
@@ -85,7 +85,7 @@ https://mao.5ch.net/test/read.cgi/linux/1566402890/<br>このように、前ス�
 - **Tera Term**<br>学校の授業で習うレベル
 - **Cisco Packet Tracer*<br>学校の授業で習うレベル
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA0NTgyMzU0LC0xMjk1ODc1MTY1LDExMT
-kzMTc0MTUsMTQwNzE3NjI5MywyMDMzMDYyODY2LDE5OTM3OTU1
-MjJdfQ==
+eyJoaXN0b3J5IjpbMTI5NzczODIwOCw2MDQ1ODIzNTQsLTEyOT
+U4NzUxNjUsMTExOTMxNzQxNSwxNDA3MTc2MjkzLDIwMzMwNjI4
+NjYsMTk5Mzc5NTUyMl19
 -->
