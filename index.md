@@ -18,7 +18,7 @@
 電子掲示板の複数partに別れたスレッドを結合し、datとhtmlで保存します。
 ### 出力の例
 ![使用例](https://github.com/r-1317/ThreadConnector/blob/main/images/img06.png?raw=true)
-https://github.com/r-1317/ThreadConnector/blob/main/sample/sample.html<br>Githup Pagesを使うと文字化けしたため、一度ダウンロードしてからローカル環境で開いてください。
+[https://github.com/r-1317/ThreadConnector/blob/main/sample/sample.html](https://github.com/r-1317/ThreadConnector/blob/main/sample/sample.html)<br>Githup Pagesを使うと文字化けしたため、一度ダウンロードしてからローカル環境で開いてください。
 
 ## ダウンロード
 以下のリンクよりダウンロードできます。
@@ -85,6 +85,7 @@ https://mao.5ch.net/test/read.cgi/linux/1566402890/<br>このように、前ス�
 - **Tera Term**<br>学校の授業で習うレベル
 - **Cisco Packet Tracer*<br>学校の授業で習うレベル
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTU4NzUxNjUsMTExOTMxNzQxNSwxND
-A3MTc2MjkzLDIwMzMwNjI4NjYsMTk5Mzc5NTUyMl19
+eyJoaXN0b3J5IjpbNjA0NTgyMzU0LC0xMjk1ODc1MTY1LDExMT
+kzMTc0MTUsMTQwNzE3NjI5MywyMDMzMDYyODY2LDE5OTM3OTU1
+MjJdfQ==
 -->
