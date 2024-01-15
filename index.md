@@ -28,33 +28,33 @@
  > 
 >  - [ソースファイル](https://github.com/r-1317/ThreadConnector/releases/download/Version1.1/ThreadConnector-1.1.py)<br>
 > ## 使い方
- >>![使用例](https://github.com/r-1317/ThreadConnector/blob/main/images/img01.png?raw=true)
-以下のようなコマンドを入力
-
-    .\ThreadConnector-1.1.exe [最新スレッドのURL] [Part数] -f [出力ファイル名] -t [dat取得の間隔(秒) デフォルト1]
-   
-   ### オプション
-
- - `-f`, `--filename`
- 保存する際のファイル名です。指定しない場合はデフォルトのファイル名になります。
- 
-
- - `-t`, `--time`
+ >![使用例](https://github.com/r-1317/ThreadConnector/blob/main/images/img01.png?raw=true)
+> 以下のようなコマンドを入力
+> 
+>     .\ThreadConnector-1.1.exe [最新スレッドのURL] [Part数] -f [出力ファイル名] -t [dat取得の間隔(秒) デフォルト1]
+>    
+>    ### オプション
+> 
+> - `-f`, `--filename`
+ > 保存する際のファイル名です。指定しない場合はデフォルトのファイル名になります。
+ >
+>
+> - `-t`, `--time`
  datを取得するときの待機時間です。 指定しない場合は1秒になり、0.5秒未満を指定すると0.5秒になります。
-
-### 問題が発生した場合
-![問題](https://github.com/r-1317/ThreadConnector/blob/main/images/img02.png?raw=true)
-画像にように、`Part〇〇のurlを入力してください。`と表示されることがあります。<br>その時は、検索エンジン等で当該スレッドを探し、URLを入力してください。
-
-![無限にURLの入力を求められる](https://github.com/r-1317/ThreadConnector/blob/main/images/img08.png?raw=true)
-稀に、正しいURLを入力しても、無限にURLの入力を求められる場合があります。<br>その時はプログラムを強制終了してください。
-
-### 正しく動作しないスレッド
-![正しく動作しないスレッド](https://github.com/r-1317/ThreadConnector/blob/main/images/img05.png?raw=true)
-https://mao.5ch.net/test/read.cgi/linux/1566402890/<br>このように、前スレの候補が複数あり、それらが昇順で並んでいる場合は正しく動作しません。<br>この例では、Part28をPart30として取得してしまいます。
-
-## 使用している言語とモジュール
-このソフトウェアは、Pythonを使用しています。
+>
+>### 問題が発生した場合
+>![問題](https://github.com/r-1317/ThreadConnector/blob/main/images/img02.png?raw=true)
+> 画像にように、`Part〇〇のurlを入力してください。`と表示されることがあります。<br>その時は、検索エンジン等で当該スレッドを探し、URLを入力してください。
+> 
+> ![無限にURLの入力を求められる](https://github.com/r-1317/ThreadConnector/blob/main/images/img08.png?raw=true)
+> 稀に、正しいURLを入力しても、無限にURLの入力を求められる場合があります。<br>その時はプログラムを強制終了してください。
+>
+> ### 正しく動作しないスレッド
+> ![正しく動作しないスレッド](https://github.com/r-1317/ThreadConnector/blob/main/images/img05.png?raw=true)
+> https://mao.5ch.net/test/read.cgi/linux/1566402890/<br>このように、前スレの候補が複数あり、それらが昇順で並んでいる場合は正しく動作しません。<br>この例では、Part28をPart30として取得してしまいます。
+> 
+> ## 使用している言語とモジュール
+> このソフトウェアは、Pythonを使用しています。
 - **Python** ([Python Software Foundation License](https://docs.python.org/ja/3/license.html#psf-license)) Copyright © 2001-2023 Python Software Foundation. All rights reserved.
 
 また、以下のモジュールも使用しています。
@@ -85,7 +85,7 @@ https://mao.5ch.net/test/read.cgi/linux/1566402890/<br>このように、前ス�
 - **Tera Term**<br>学校の授業で習うレベル
 - **Cisco Packet Tracer*<br>学校の授業で習うレベル
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQyMjg1MDUsMTI5NzczODIwOCw2MD
-Q1ODIzNTQsLTEyOTU4NzUxNjUsMTExOTMxNzQxNSwxNDA3MTc2
-MjkzLDIwMzMwNjI4NjYsMTk5Mzc5NTUyMl19
+eyJoaXN0b3J5IjpbODA5NzQ4OTU5LDEyOTc3MzgyMDgsNjA0NT
+gyMzU0LC0xMjk1ODc1MTY1LDExMTkzMTc0MTUsMTQwNzE3NjI5
+MywyMDMzMDYyODY2LDE5OTM3OTU1MjJdfQ==
 -->
