@@ -34,7 +34,7 @@
 >- **PySide6** ([GNU Lesser General Public License](https://www.gnu.org/licenses/lgpl-3.0.html.en)) © 2024 The Qt Company
 
 >## ライセンス
->このソフトウェアは、[GNU Lesser General Public License](https://www.gnu.org/licenses/lgpl-3.0.html.en)の下で配布されています。詳細は[LICENSE.txt](https://github.com/r-1317/ThreadConnector/blob/main/LICENSE.txt)を参照してください。
+>このソフトウェアは、[GNU Lesser General Public License](https://www.gnu.org/licenses/lgpl-3.0.html.en)の下で配布されています。詳細は[LICENSE.txt](https://github.com/r-1317/Recall-Signature-Calculator/blob/main/LICENCE.txt)を参照してください。
 
 ## プログラミング言語やソフトウェア (ウェブサービス) に関する経験・スキル
 
@@ -52,9 +52,9 @@
 - **Tera Term**<br>学校の授業で習うレベル
 - **Cisco Packet Tracer**<br>学校の授業で習うレベル
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MTI2MjMyMywtMjA2NDQwNjkxNywtNz
-IzMTU0NDMsLTE2MTQzMTUyMiwtNTg1MDY1NzI3LDY2ODg1NzEx
-MSwxODc2NzA2MTA1LDEyOTc3MzgyMDgsNjA0NTgyMzU0LC0xMj
-k1ODc1MTY1LDExMTkzMTc0MTUsMTQwNzE3NjI5MywyMDMzMDYy
-ODY2LDE5OTM3OTU1MjJdfQ==
+eyJoaXN0b3J5IjpbMjA2MTA2ODAxMywtOTYxMjYyMzIzLC0yMD
+Y0NDA2OTE3LC03MjMxNTQ0MywtMTYxNDMxNTIyLC01ODUwNjU3
+MjcsNjY4ODU3MTExLDE4NzY3MDYxMDUsMTI5NzczODIwOCw2MD
+Q1ODIzNTQsLTEyOTU4NzUxNjUsMTExOTMxNzQxNSwxNDA3MTc2
+MjkzLDIwMzMwNjI4NjYsMTk5Mzc5NTUyMl19
 -->
