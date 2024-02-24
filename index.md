@@ -3,9 +3,7 @@
 
 ## プロフィール
 
-高等専門学校第二学年
-[GitHub](https://github.com/r-1317/)
-[AtCoder](https://atcoder.jp/users/r1317)
+高等専門学校第二学年<br>[GitHub](https://github.com/r-1317/)<br>[AtCoder](https://atcoder.jp/users/r1317)
 ## 成果物等
 
 -   **任意の文字列を先頭にもつ電子掲示板のトリップを生成するプログラム** -2023年7月 完成<br>  [https://github.com/r-1317/portfolio2/blob/main/tripkey.ipynb](https://github.com/r-1317/portfolio2/blob/main/tripkey.ipynb)
@@ -52,8 +50,9 @@
 - **Tera Term**<br>学校の授業で習うレベル
 - **Cisco Packet Tracer**<br>学校の授業で習うレベル
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzE1NDQzLC0xNjE0MzE1MjIsLTU4NT
-A2NTcyNyw2Njg4NTcxMTEsMTg3NjcwNjEwNSwxMjk3NzM4MjA4
-LDYwNDU4MjM1NCwtMTI5NTg3NTE2NSwxMTE5MzE3NDE1LDE0MD
-cxNzYyOTMsMjAzMzA2Mjg2NiwxOTkzNzk1NTIyXX0=
+eyJoaXN0b3J5IjpbMTY1MTIyOTU4MSwtNzIzMTU0NDMsLTE2MT
+QzMTUyMiwtNTg1MDY1NzI3LDY2ODg1NzExMSwxODc2NzA2MTA1
+LDEyOTc3MzgyMDgsNjA0NTgyMzU0LC0xMjk1ODc1MTY1LDExMT
+kzMTc0MTUsMTQwNzE3NjI5MywyMDMzMDYyODY2LDE5OTM3OTU1
+MjJdfQ==
 -->
