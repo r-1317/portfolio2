@@ -1,5 +1,5 @@
 # ポートフォリオ
-(2023年12月時点)
+(2024年2月時点)
 
 ## プロフィール
 
@@ -30,8 +30,8 @@
 - **Tera Term**<br>学校の授業で習うレベル
 - **Cisco Packet Tracer**<br>学校の授業で習うレベル
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTgzNDA2LC01ODUwNjU3MjcsNjY4OD
-U3MTExLDE4NzY3MDYxMDUsMTI5NzczODIwOCw2MDQ1ODIzNTQs
-LTEyOTU4NzUxNjUsMTExOTMxNzQxNSwxNDA3MTc2MjkzLDIwMz
-MwNjI4NjYsMTk5Mzc5NTUyMl19
+eyJoaXN0b3J5IjpbLTE2MTQzMTUyMiwtNTg1MDY1NzI3LDY2OD
+g1NzExMSwxODc2NzA2MTA1LDEyOTc3MzgyMDgsNjA0NTgyMzU0
+LC0xMjk1ODc1MTY1LDExMTkzMTc0MTUsMTQwNzE3NjI5MywyMD
+MzMDYyODY2LDE5OTM3OTU1MjJdfQ==
 -->
