@@ -14,7 +14,7 @@
  
 -  **ThreadConnector** -2023年12月 完成<br> [https://github.com/r-1317/ThreadConnector](https://github.com/r-1317/ThreadConnector)<br>電子掲示板の複数partに別れたスレッドを結合するプログラム<br>
 
--  ** Recall-Signature-Calculator** -2024年2月 完成<br> [https://github.com/r-1317/ThreadConnector](https://github.com/r-1317/ThreadConnector)<br>電子掲示板の複数partに別れたスレッドを結合するプログラム<br>
+-  **Recall-Signature-Calculator** -2024年2月 完成<br> [https://github.com/r-1317/Recall-Signature-Calculator](https://github.com/r-1317/Recall-Signature-Calculator)<br>都道府県知事・市町村長の解職請求に必要な署名数を計算する。<br>
 
 ## プログラミング言語やソフトウェア (ウェブサービス) に関する経験・スキル
 
@@ -32,7 +32,7 @@
 - **Tera Term**<br>学校の授業で習うレベル
 - **Cisco Packet Tracer**<br>学校の授業で習うレベル
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2Njg1OTg4NSwtMTYxNDMxNTIyLC01OD
+eyJoaXN0b3J5IjpbLTE2NjgxNTE2OSwtMTYxNDMxNTIyLC01OD
 UwNjU3MjcsNjY4ODU3MTExLDE4NzY3MDYxMDUsMTI5NzczODIw
 OCw2MDQ1ODIzNTQsLTEyOTU4NzUxNjUsMTExOTMxNzQxNSwxND
 A3MTc2MjkzLDIwMzMwNjI4NjYsMTk5Mzc5NTUyMl19
