@@ -32,6 +32,7 @@
 >また、以下のモジュールも使用しています。
 >- **re**, **math**, **sys** ([Python Software Foundation License](https://docs.python.org/ja/3/license.html#psf-license)) Copyright © 2001-2024 Python Software Foundation. All rights reserved.
 >- **PySide6** ([GNU Lesser General Public License](https://www.gnu.org/licenses/lgpl-3.0.html.en)) © 2024 The Qt Company
+
 >## ライセンス
 >このソフトウェアは、[GNU Lesser General Public License](https://www.gnu.org/licenses/lgpl-3.0.html.en)の下で配布されています。詳細は[LICENSE.txt](https://github.com/r-1317/ThreadConnector/blob/main/LICENSE.txt)を参照してください。
 
@@ -51,9 +52,9 @@
 - **Tera Term**<br>学校の授業で習うレベル
 - **Cisco Packet Tracer**<br>学校の授業で習うレベル
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQ0MDY5MTcsLTcyMzE1NDQzLC0xNj
-E0MzE1MjIsLTU4NTA2NTcyNyw2Njg4NTcxMTEsMTg3NjcwNjEw
-NSwxMjk3NzM4MjA4LDYwNDU4MjM1NCwtMTI5NTg3NTE2NSwxMT
-E5MzE3NDE1LDE0MDcxNzYyOTMsMjAzMzA2Mjg2NiwxOTkzNzk1
-NTIyXX0=
+eyJoaXN0b3J5IjpbLTk2MTI2MjMyMywtMjA2NDQwNjkxNywtNz
+IzMTU0NDMsLTE2MTQzMTUyMiwtNTg1MDY1NzI3LDY2ODg1NzEx
+MSwxODc2NzA2MTA1LDEyOTc3MzgyMDgsNjA0NTgyMzU0LC0xMj
+k1ODc1MTY1LDExMTkzMTc0MTUsMTQwNzE3NjI5MywyMDMzMDYy
+ODY2LDE5OTM3OTU1MjJdfQ==
 -->
