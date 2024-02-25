@@ -23,7 +23,12 @@
 >計算が[少し複雑](https://www.soumu.go.jp/main_content/000451016.pdf)であり、Googleで検索しても計算できるwebサイトが見つからなかったから。
 
 >## 使い方
+>![サムネイル画像](https://github.com/r-1317/Recall-Signature-Calculator/blob/main/ScreenShot.png?raw=true)
 >有権者数を入力するだけで必要な署名数を計算できます。
+
+>![calc.pyのスクリーンショット](https://github.com/r-1317/Recall-Signature-Calculator/blob/main/calc_cli.png?raw=true)
+>また、[calc.py](https://github.com/r-1317/Recall-Signature-Calculator/blob/main/calc.py)のみを使ってCLIでの操作も可能です。
+
 
 >## 使用している言語とモジュール
 >このソフトウェアは、Pythonを使用しています。
@@ -52,9 +57,9 @@
 - **Tera Term**<br>学校の授業で習うレベル
 - **Cisco Packet Tracer**<br>学校の授業で習うレベル
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTA2ODAxMywtOTYxMjYyMzIzLC0yMD
-Y0NDA2OTE3LC03MjMxNTQ0MywtMTYxNDMxNTIyLC01ODUwNjU3
-MjcsNjY4ODU3MTExLDE4NzY3MDYxMDUsMTI5NzczODIwOCw2MD
-Q1ODIzNTQsLTEyOTU4NzUxNjUsMTExOTMxNzQxNSwxNDA3MTc2
-MjkzLDIwMzMwNjI4NjYsMTk5Mzc5NTUyMl19
+eyJoaXN0b3J5IjpbLTE2OTM1NTUyNjQsLTk2MTI2MjMyMywtMj
+A2NDQwNjkxNywtNzIzMTU0NDMsLTE2MTQzMTUyMiwtNTg1MDY1
+NzI3LDY2ODg1NzExMSwxODc2NzA2MTA1LDEyOTc3MzgyMDgsNj
+A0NTgyMzU0LC0xMjk1ODc1MTY1LDExMTkzMTc0MTUsMTQwNzE3
+NjI5MywyMDMzMDYyODY2LDE5OTM3OTU1MjJdfQ==
 -->
