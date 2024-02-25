@@ -12,7 +12,7 @@
  
 -  **ThreadConnector** -2023年12月 完成<br> [https://github.com/r-1317/ThreadConnector](https://github.com/r-1317/ThreadConnector)<br>電子掲示板の複数partに別れたスレッドを結合するプログラム<br>
 
--  **Recall-Signature-Calculator** -2024年2月 完成<br> [https://github.com/r-1317/Recall-Signature-Calculator](https://github.com/r-1317/Recall-Signature-Calculator)<br>都道府県知事・市町村長の解職請求に必要な署名数を計算するプログラム。<br>制作時間: 約5時間
+-  **Recall-Signature-Calculator** -2024年2月 完成<br> [https://github.com/r-1317/Recall-Signature-Calculator](https://github.com/r-1317/Recall-Signature-Calculator)<br>都道府県知事・市町村長の解職請求に必要な署名数を計算するプログラム。<br>制作時間: 約4時間
 
 ># Recall-Signature-Calculator
 >![サムネイル画像](https://github.com/r-1317/Recall-Signature-Calculator/blob/main/ScreenShot.png?raw=true)
@@ -57,9 +57,10 @@
 - **Tera Term**<br>学校の授業で習うレベル
 - **Cisco Packet Tracer**<br>学校の授業で習うレベル
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTM1NTUyNjQsLTk2MTI2MjMyMywtMj
-A2NDQwNjkxNywtNzIzMTU0NDMsLTE2MTQzMTUyMiwtNTg1MDY1
-NzI3LDY2ODg1NzExMSwxODc2NzA2MTA1LDEyOTc3MzgyMDgsNj
-A0NTgyMzU0LC0xMjk1ODc1MTY1LDExMTkzMTc0MTUsMTQwNzE3
-NjI5MywyMDMzMDYyODY2LDE5OTM3OTU1MjJdfQ==
+eyJoaXN0b3J5IjpbLTEzMjk1MjU5NTMsLTE2OTM1NTUyNjQsLT
+k2MTI2MjMyMywtMjA2NDQwNjkxNywtNzIzMTU0NDMsLTE2MTQz
+MTUyMiwtNTg1MDY1NzI3LDY2ODg1NzExMSwxODc2NzA2MTA1LD
+EyOTc3MzgyMDgsNjA0NTgyMzU0LC0xMjk1ODc1MTY1LDExMTkz
+MTc0MTUsMTQwNzE3NjI5MywyMDMzMDYyODY2LDE5OTM3OTU1Mj
+JdfQ==
 -->
